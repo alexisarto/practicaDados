@@ -1,0 +1,14 @@
+Juez.java
+ Juez
+Jugador.java
+ Jugador
+Tirador.java
+ Tirador
+JugadorTirada.java
+ JugadorTirada
+Aleatorio.java
+ Aleatorio
+Dado.java
+ Dado
+Main.java
+ Main
